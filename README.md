@@ -1,6 +1,6 @@
 # ⚛️ QStatic
 **QStatic** is an infrastructure designed for the static analysis of OpenQASM.
-- Note: QStatic is currently in the prototype phase with plans to extend its capabilities to other quantum programming languages.
+- Note: QStatic is in the early stages of development because srcML does not yet fully support quantum languages.
 
 ## 🛠️ Current Tools
 QStatic consists of two components: `parser.py` and `pattern_finder.py`
