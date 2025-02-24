@@ -1,0 +1,4 @@
+*.horizontal_refactor
+*.hadamard_refactor
+*.encapsulation_refactor
+out.json
